@@ -1,1 +1,3 @@
-# ToDo
+This generator base on the idee from http://www.2dconcept.com/articles/11-reverse-scaffold-existing-table
+but as the Code from http://github.com/ahe/reverse_scaffold/blob/master/reverse_scaffold work only for rails 2, 
+i adopt it for rails 3.
