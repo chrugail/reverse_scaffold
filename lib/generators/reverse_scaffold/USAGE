@@ -1,0 +1,8 @@
+Description:
+    Generate a Model based on e existing table
+
+Example:
+    rails generate reverse_scaffold tablename Thing
+
+    This will create a Model Thing based on the Table tablename
+        
