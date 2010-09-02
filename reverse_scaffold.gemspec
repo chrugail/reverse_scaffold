@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Generate a model from a existing database table}
   s.email = %q{chrugail@gmail.com}
   s.extra_rdoc_files = ["README.rdoc", "lib/generators/reverse_scaffold/USAGE", "lib/generators/reverse_scaffold/reverse_scaffold_generator.rb"]
-  s.files = ["Manifest", "README.rdoc", "Rakefile", "lib/generators/reverse_scaffold/USAGE", "lib/generators/reverse_scaffold/reverse_scaffold_generator.rb", "reverse_scaffold.gemspec"]
+  s.files = ["README.rdoc", "Rakefile", "lib/generators/reverse_scaffold/USAGE", "lib/generators/reverse_scaffold/reverse_scaffold_generator.rb", "reverse_scaffold.gemspec"]
   s.homepage = %q{http://github.com/chrugail/reverse_scaffold}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Reverse_scaffold", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
